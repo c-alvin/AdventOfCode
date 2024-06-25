@@ -1,1 +1,1 @@
-console.log('Hello, Code Solutions!');
+console.log('Hello, Code Solutions');
